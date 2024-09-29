@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+          }
+
+          @media only screen and (min-width: 600px) {
+            
+          
+            body{
+                background-color: #36384D;
+                display: flex;
+                flex-flow:column;
+                justify-content: center;
+                align-items: center;
+                align-content: left;
+                text-align: left;
+                min-height: 100vh;
+            }
+            
+        
+            
+            h1{
+                color: #36384D;
+                margin-left: 15pt;
+                margin-top: 35pt;
+            }
+            
+            .valid{
+                color: red;
+                text-align: right;
+                font-size: 7pt;
+                margin-left: 50px;
+                display: none;
+            }
+        
+            .p{
+                margin-left: 15pt;
+                font-size: 70%;
+                color: #36384D;
+                text-align: left;
+                line-height: 2;
+                margin-bottom: 2pt;
+            }
+            
+            .flexbox{
+                background-color:white;
+                display: block;
+                position: fixed;
+                flex-direction: column;
+                justify-content: left;
+                align-items: left;
+                align-content: left;
+                text-align: left;
+                padding: 1%;
+                border-radius: 1em;
+                width: 600px;
+                height: 380px;
+            }
+            
+            .image-size{
+                width: 250px;
+                height: 360px;
+                border-radius: 0.5em;
+                margin-top: 5px;
+                margin-right: 8px;
+            }
+            
+            .flotte{
+                float: right;
+            }
+            
+            .icone{
+                width: 15px;
+                height: 15px;
+                margin-right: 5px;
+            }
+            
+            input,
+            label {
+              color: #36384D;
+              height: 25px;
+              width: 230px;
+              margin: 0.4rem 0;
+            }
+            
+            input:user-invalid {
+                border: 2px solid red;
+                background-color: #FFCCCC;
+              }
+            
+            .styled{
+               background-color: #36384D; 
+               color: white;
+               border-radius: 0.5em;
+               height: 40px;
+               width: 240px;
+               text-align: center;
+               margin: 0.4rem 0;
+               margin-left: 15pt;
+            }
+
+            .placeholder{
+                margin-left: 3%;
+                background-color: white;
+                border-radius: 0.4em;
+            }
+
+        }
+
+        
+
+        @media only screen and (max-width: 600px) {
+            body {
+                display: flex;
+                flex-flow:column;
+                align-items: center;
+                min-height: 100vh;
+                margin: 0;
+                padding: 0;
+            }
+            
+            h1{
+                color: #36384D;
+                font-size: 22pt;
+                text-align: left;
+                margin-left: 10%;
+                margin-top: 10%;
+            }
+
+            .valid{
+                color: red;
+                text-align: right;
+                font-size: 7pt;
+                text-align: right;
+                margin-left: 30px;
+                display: none;
+            }
+            
+            .p{
+                text-align: left;
+                font-size: 80%;
+                margin-left: 10%;
+                line-height: 2;
+            }
+
+            div{
+                color: #36384D;
+                text-align: left;
+            }
+
+            .flexbox{
+                background-color:white;
+                display: block;
+                position: fixed;
+                flex-direction: column;
+                justify-content: left;
+                align-items: left;
+                align-content: left;
+                text-align: left;
+            }
+
+            .image-size{
+                height: 220px;
+                border-radius: 0 0 0.5em 0.5em;
+                background-clip: content-box;
+                width: 100%;
+            }
+
+            .icone{
+                width: 6%;
+                height: 6%;
+                margin-right: 2%;
+            }
+
+            input,
+            label {
+              color: #36384D;
+              height: 30px;
+              width: 70%;
+              margin: 0.4em;
+              margin-left: 10%;
+            }
+
+            input:user-invalid {
+                border: 2px solid red;
+                background-color: #FFCCCC;
+            }
+
+            .styled {
+                background-color: #36384D; 
+                color: white;
+                border-radius: 1em;
+                height: 40px;
+                width: 73%;
+                text-align: center;
+                margin: 0.4em;
+                margin-left: 10%;
+            }
+        } 
+        
+       
+            

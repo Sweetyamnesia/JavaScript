@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    margin-left: 35px;
+    margin-top: 50px;
+}
+
+.titre{
+    color: white;
+}
+
+.nbr{
+    color: aliceblue;
+    margin-left: 70px;
+}
+
+.bt1{
+    background-color: #44C38D;
+    width: 70px;
+    border-radius: 5pt;
+}
+
+.bt2{
+    background-color: #F8627F;
+    width: 70px;
+    border-radius: 5pt;
+}

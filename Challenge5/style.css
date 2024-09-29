@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.titre {
+    color: whitesmoke;
+}
+
+button {
+    background-color: #63CCF8;
+    height: 30pt;
+    border-radius: 10pt;
+}

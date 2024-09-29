@@ -1,0 +1,68 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+.grid{
+    display: grid;
+    width: 100%;
+    grid-template: 
+            "a a a" 300px
+            "b c c" 40px
+            "b c c" 40px / 1fr 1fr 1fr;
+            margin-left: 5%;
+            margin-top: 10%;
+    
+}
+
+.img{
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.title{
+    text-align: center;
+}
+
+.box1{
+width: 300px;
+height: 300px;
+}
+
+.button1{
+    margin-top: 200px;
+}
+
+.change{
+    position: relative;
+    top: 85%;
+    margin-left: 15%;
+}
+
+.box2{
+width: 300px;
+height: 300px;
+}
+
+.color2{
+    background-color: green;
+}
+
+.reset{
+    position: relative;
+    top: 85%;
+    margin-left: 15%;
+}
+
+.box3{
+width: 300px;
+height: 300px;
+}
+
+.reverse{
+    position: relative;
+    top: 85%;
+    margin-left: 15%;
+}
+
+.text{
+    text-align: left;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin-top: 70px;
+}
+
+.titre {
+    color: white;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+button {
+    background-color: palevioletred;
+    height: 50px;
+    width: 90px;
+    border-radius: 5pt;
+    margin-left: 70px;
+}
