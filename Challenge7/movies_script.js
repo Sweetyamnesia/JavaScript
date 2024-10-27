@@ -111,7 +111,6 @@ const films = [
   ];
   
   const test = document.getElementById("test");
-  test.innerHTML = "<h1>My Favorite Movies</h1>"
   
   const film = document.getElementById("title");
   
