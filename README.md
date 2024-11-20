@@ -52,6 +52,7 @@ Créer un compteur avec deux boutons permettant d'incrémenter ou de décrément
 Créer une calculatrice simple en JavaScript, permettant de réaliser des opérations de base (addition, soustraction, multiplication, division).
 ![Challenge 4](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge4-ezgif.com-video-to-gif-converter.gif?raw=true)
 
+
 ### **Challenge 5 : Affichage du mot de passe**
 Afficher un mot de passe au clic d'un bouton.
 
@@ -63,6 +64,7 @@ Partie 1 : Lorsqu'on clique sur un bouton, une couleur apparaît et disparaît.
 Partie 2 : La couleur de l'élément change selon les interactions de la souris : survol, retrait de la souris et double clic.
 Partie 3 : Inverser un texte au clic d'un bouton.
 ![Projet 5](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Projet5-DOMJavascript-ezgif.com-video-to-gif-converter.gif?raw=true)
+
 
 
 ### **Retour sur le projet 2**
