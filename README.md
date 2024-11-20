@@ -36,6 +36,7 @@ Créer un bouton qui, lorsqu'il est cliqué, affiche un texte sur la page.
 
 ### **Challenge 2.2 : Afficher ou masquer un texte **
 Créer un bouton qui affiche ou masque un texte au clic.
+
 ![Challenge 2.2](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge2.2-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 
@@ -53,6 +54,8 @@ Créer une calculatrice simple en JavaScript, permettant de réaliser des opéra
 
 ### **Challenge 5 : Affichage du mot de passe**
 Afficher un mot de passe au clic d'un bouton.
+
+
 ![Challenge 5](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge5-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 ### **Projet 5 : Manipulations de couleurs et de texte**
