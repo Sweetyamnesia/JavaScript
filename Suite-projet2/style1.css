@@ -34,6 +34,12 @@
                 position: absolute;
                 margin: -20px;
             }
+
+            /* Styles pour un champ invalide */
+            .input-error {
+                border: 2px solid red;
+                background-color: #ffe6e6; /* Rouge clair */
+            }          
         
             .p{
                 margin-left: 15pt;
