@@ -30,11 +30,11 @@ Créer un écouteur d'événements "click" sur un élément HTML et afficher un 
 Modifier dynamiquement le texte d'une balise HTML via JavaScript
 ![Challenge 1.3](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge1.3-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-### **Challenge 2.1 : Afficher du texte au clic d'un bouton **
+### **Challenge 2.1 : Afficher du texte au clic d'un bouton**
 Créer un bouton qui, lorsqu'il est cliqué, affiche un texte sur la page.
 ![Challenge 2.1](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge2.1-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-### **Challenge 2.2 : Afficher ou masquer un texte **
+### **Challenge 2.2 : Afficher ou masquer un texte**
 Créer un bouton qui affiche ou masque un texte au clic.
 
 ![Challenge 2.2](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge2.2-ezgif.com-video-to-gif-converter.gif?raw=true)
@@ -44,11 +44,11 @@ Créer un bouton qui affiche ou masque un texte au clic.
 Créer un compteur en JavaScript qui permet d'incrémenter une valeur.
 ![Challenge 3.1](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge3.1-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-### ** Challenge 3.2 : Compteur avec 2 boutons (+ et -)**
+### **Challenge 3.2 : Compteur avec 2 boutons (+ et -)**
 Créer un compteur avec deux boutons permettant d'incrémenter ou de décrémenter une valeur.
 ![Challenge 3.2](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge3.2-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-### **Challenge 4 : Création d'une calculatrice **
+### **Challenge 4 : Création d'une calculatrice**
 Créer une calculatrice simple en JavaScript, permettant de réaliser des opérations de base (addition, soustraction, multiplication, division).
 
 ![Challenge 4](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge4-ezgif.com-video-to-gif-converter.gif?raw=true)
@@ -73,11 +73,10 @@ Partie 3 : Inverser un texte au clic d'un bouton.
 Ce projet reprend les bases du **Projet 2** et y ajoute une couche de JavaScript pour rendre le projet interactif.
 Il inclut des manipulations du DOM et de la gestion des événements.
 
+![Suite Projet2](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Suite-projet2-ezgif.com-video-to-gif-converter.gif?raw=true)
+
+
 ### **Challenge 7**
 Manipuler un tableau JavaScript complexe simulant une réponse d'API. L'objectif est d'afficher et de manipuler ces données de manière dynamique.
 ![Challenge 7](https://github.com/Sweetyamnesia/JavaScript/blob/main/images/Challenge7.jpg?raw=true)
 
-___
-
-## Problèmes connus : 
-Certains fichiers à l'intérieur du dossier **Suite-projet2** ont été endommagés. Ces fichiers seront réparés et mis à jour dans un prochain commit.
