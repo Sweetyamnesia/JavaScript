@@ -1,21 +1,37 @@
-# Projet JavaScript - Manipulation du DOM et Interactivité
+# 📌 Projet JavaScript - Manipulation du DOM et Interactivité
 
-## Description :
-Ce dépôt regroupe une série de challenges et de projets permettant de pratiquer les concepts fondamentaux de JavaScript, 
-notamment la manipulation du DOM, l'interaction avec les éléments HTML, la gestion des événements et la manipulation de tableaux complexes.
-Ces projets visent à approfondir les bases du JavaScript en travaillant sur l'interactivité avec la page web, la gestion des données et la création de fonctionnalités dynamiques.
+## 📝 Description  
 
-## Objectifs : 
-Les objectifs principaux de ces projets étaient de : 
-- Manipuler le DOM en utilisant JavaScript pour interagir avec la page HTML
-- Créer et gérer des événements tels que les clics, les survols de souris et les doubles clics.
-- Implémenter des fonctionnalités interactives comme des compteurs, des affichages dynamiques, et des effets visuels.
-- Travailler avec des tableaux JavaScript complexes et simuler des réponses d'API pour afficher des données.
+Ce dépôt regroupe une série de challenges et de projets permettant de pratiquer les concepts fondamentaux de **JavaScript**, notamment la **manipulation du DOM**, l'interaction avec les éléments HTML, la gestion des événements et la manipulation de tableaux complexes.  
+Ces projets visent à approfondir les bases de JavaScript en travaillant sur l'interactivité avec la page web, la gestion des données et la création de fonctionnalités dynamiques.
 
-## Technologies utilisées : 
-- **HTML**
-- **CSS**
-- **JavaScript**
+---
+
+## 🛠️ Pile technologique  
+
+- **HTML5** → Structure du contenu  
+- **CSS3** → Mise en forme des éléments  
+- **JavaScript** → Manipulation du DOM, gestion des événements et des données
+
+---
+
+## ✨ Fonctionnalités  
+
+- 🖥️ **Manipulation du DOM** → Interagir dynamiquement avec les éléments HTML de la page  
+- ⏩ **Gestion des événements** → Créer des événements interactifs (clics, survols, etc.)  
+- 🔢 **Manipulation de tableaux** → Gérer et manipuler des tableaux JavaScript complexes, simuler des réponses d'API  
+- 🧮 **Création d'une calculatrice** → Implémenter des calculs de base en JavaScript
+
+---
+
+## 🚀 Installation & Utilisation  
+
+1️⃣ **Cloner le projet**  
+```bash
+git clone https://github.com/Sweetyamnesia/JavaScript.git
+cd JavaScript
+```
+---
 
 ## Challenges réalisés : 
 ### **Challenge 1.1 : Manipulation du DOM** : 
